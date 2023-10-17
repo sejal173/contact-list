@@ -1,0 +1,9 @@
+.contact-card{
+    width: 340px;
+    padding: 10px;
+    border: 1px solid black;
+    border-radius: 5px;
+    margin: 10px;
+    background-color:	 #ccf2ff;
+    margin: 15px auto;
+}
